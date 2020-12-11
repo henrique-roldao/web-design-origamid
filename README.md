@@ -80,7 +80,7 @@
 - [x] 5-1-10 Produtos 1
 - [x] 5-1-10 Produtos 2
 - [x] 5-1-11 Portfólio
-- [ ] 5-1-12 Contato
+- [x] 5-1-12 Contato
 # 5-2 Responsivo
 - [ ] 5-2-1 Introdução
 - [ ] 5-2-2 Grid
