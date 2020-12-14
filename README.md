@@ -82,9 +82,9 @@
 - [x] 5-1-11 Portfólio
 - [x] 5-1-12 Contato
 # 5-2 Responsivo
-- [ ] 5-2-1 Introdução
-- [ ] 5-2-2 Grid
-- [ ] 5-2-3 Header
+- [x] 5-2-1 Introdução
+- [x] 5-2-2 Grid
+- [x] 5-2-3 Header
 - [ ] 5-2-4 Home
 - [ ] 5-2-5 Sobre
 - [ ] 5-2-6 Produtos
