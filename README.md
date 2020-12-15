@@ -90,9 +90,9 @@
 - [x] 5-2-6 Produtos
 - [x] 5-2-7 Portfólio e Contato
 # 5-3 JavaScript e Animações
-- [ ] 5-3-1 Introdução
-- [ ] 5-3-2 Plugin Slide
-- [ ] 5-3-3 Animações
+- [x] 5-3-1 Introdução
+- [x] 5-3-2 Plugin Slide
+- [x] 5-3-3 Animações
 # 5-4 Ajustes Finais
 - [ ] 5-4-1 Formulário
 - [ ] 5-4-2 SEO e Head
