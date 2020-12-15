@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/portfolio.css">
     <link rel="stylesheet" href="css/responsivo.css">
+    <script>document.documentElement.classList.add("js");</script>
 </head>
 <body>
     <header class="header">
@@ -30,26 +31,40 @@
 
     <section class="introducao-interna interna_portfolio">
         <div class="container">
-            <h1>Porfólio</h1>
-            <p>conheça os projetos que amamos mostrar</p>
+            <h1 data-anime="400" class="fadeInDown">Porfólio</h1>
+            <p data-anime="800" class="fadeInDown">conheça os projetos que amamos mostrar</p>
         </div>
     </section>
     <!-- Fecha Introdução -->
 
-    <section class="container">
+    <section class="container fadeInDown" data-slide="quote" data-anime="1200">
         <blockquote class="quote_clientes"> 
             <p>"No mundo atual, a contínua expansão de nossa atividade cumpre um 
                 papel essencial na formulação da gestão inovadora da qual fazemos parte."</p>
             <cite>Henrique Roldão</cite>
         </blockquote>
+        <blockquote class="quote_clientes"> 
+            <p>"Nada melhor do que dar um rolê com a minha Bikcraft na orla. Essa
+                é a minha companheira mais fiel, nunca me traiu e está sempre a minha disposição."</p>
+            <cite>É o Bryan</cite>
+        </blockquote>
+        <blockquote class="quote_clientes"> 
+            <p>"Aqueles que ainda não possuem Bikcraft, não sabem o que estão perdendo. A precisão
+                é absurda e a velocidade transcendental. Nunca vi nada igual."</p>
+            <cite>Tiririca</cite>
+        </blockquote>
     </section>
 
     <section class="portfolio">
-        <div class="container">
-            <h2 class="subtitulo">Portifólio</h2>
+        <div class="container" data-slide="portfolio">
             <ul class="portfolio_lista">
                 <li class="grid-8"><img src="img/portfolio/retro.jpg" alt="Bicicleta Retro"></li>
                 <li class="grid-8"><img src="img/portfolio/passeio.jpg" alt="Bicicleta Passeio"></li>
+                <li class="grid-16"><img src="img/portfolio/esporte.jpg" alt="Bicicleta Esporte"></li>
+            </ul>
+            <ul class="portfolio_lista">
+                <li class="grid-8"><img src="img/portfolio/passeio.jpg" alt="Bicicleta Passeio"></li>
+                <li class="grid-8"><img src="img/portfolio/retro.jpg" alt="Bicicleta Retro"></li>
                 <li class="grid-16"><img src="img/portfolio/esporte.jpg" alt="Bicicleta Esporte"></li>
             </ul>
         </div>
@@ -104,5 +119,8 @@
         </div>
     </footer>
 
+    <script src="./js/simple-slide.js"></script>
+    <script src="./js/simple-anime.js"></script>
+    <script src="./js/script.js"></script>
 </body>
 </html>
