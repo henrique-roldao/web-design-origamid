@@ -85,7 +85,7 @@
 - [x] 5-2-1 Introdução
 - [x] 5-2-2 Grid
 - [x] 5-2-3 Header
-- [ ] 5-2-4 Home
+- [x] 5-2-4 Home
 - [ ] 5-2-5 Sobre
 - [ ] 5-2-6 Produtos
 - [ ] 5-2-7 Portfólio e Contato
