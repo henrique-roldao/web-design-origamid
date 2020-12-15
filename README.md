@@ -86,9 +86,9 @@
 - [x] 5-2-2 Grid
 - [x] 5-2-3 Header
 - [x] 5-2-4 Home
-- [ ] 5-2-5 Sobre
-- [ ] 5-2-6 Produtos
-- [ ] 5-2-7 Portfólio e Contato
+- [x] 5-2-5 Sobre
+- [x] 5-2-6 Produtos
+- [x] 5-2-7 Portfólio e Contato
 # 5-3 JavaScript e Animações
 - [ ] 5-3-1 Introdução
 - [ ] 5-3-2 Plugin Slide
