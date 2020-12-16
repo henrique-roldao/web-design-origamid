@@ -94,7 +94,7 @@
 - [x] 5-3-2 Plugin Slide
 - [x] 5-3-3 Animações
 # 5-4 Ajustes Finais
-- [ ] 5-4-1 Formulário
+- [x] 5-4-1 Formulário
 - [ ] 5-4-2 SEO e Head
 - [ ] 5-4-3 Otimização
 # 5-5 Domínio, Hospedagem e Analytics
