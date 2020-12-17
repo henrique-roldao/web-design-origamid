@@ -96,7 +96,7 @@
 # 5-4 Ajustes Finais
 - [x] 5-4-1 Formulário
 - [x] 5-4-2 SEO e Head
-- [ ] 5-4-3 Otimização
+- [x] 5-4-3 Otimização
 # 5-5 Domínio, Hospedagem e Analytics
 - [ ] 5-5-1 Domínio
 - [ ] 5-5-2 Hospedagem
