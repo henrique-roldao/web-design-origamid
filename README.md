@@ -98,9 +98,9 @@
 - [x] 5-4-2 SEO e Head
 - [x] 5-4-3 Otimização
 # 5-5 Domínio, Hospedagem e Analytics
-- [ ] 5-5-1 Domínio
-- [ ] 5-5-2 Hospedagem
-- [ ] 5-5-3 Analytics
+- [x] 5-5-1 Domínio
+- [x] 5-5-2 Hospedagem
+- [x] 5-5-3 Analytics
 
 # 6 Considerações Finais
-- [ ] 6-1-1 Web Desing Completo - Conclusão
+- [x] 6-1-1 Web Desing Completo - Conclusão
